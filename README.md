@@ -23,7 +23,7 @@ I'm a Computer Science undergrad who is passionate about Frontend Development an
 
 - Twitter: [@firas_mtz](https://twitter.com/firas_mtz)
 - GitHub: [firascodes](https://github.com/firascodes)
-- LinkedIn: [Firas](https://www.linkedin.com/in/yourlinkedin/)
+- LinkedIn: [Firas Mumtaz](https://www.linkedin.com/in/firas-mumtaz/)
 - Email: firasmumtaz12@gmail.com
 
 ---
