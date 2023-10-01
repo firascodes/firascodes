@@ -3,7 +3,7 @@
 
 
 Gm! 🚀 
-I'm a Computer Science undergrad who is passionate about Frontend Development and Blockchain technologies. I love building beautiful, functional applications and exploring the limitless potential of the decentralized world.
+I'm a Computer Science undergrad who is passionate about FullStack Development and Blockchain technology. I love building beautiful, functional applications and exploring the limitless potential of the decentralized world.
 
 - 🔭 Currently studying Computer Science and honing my skills in Frontend and Blockchain Development
 - 🌱 I’m always trying to learn something new, currently diving deeper into Solidity
