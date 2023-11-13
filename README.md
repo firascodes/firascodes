@@ -18,6 +18,10 @@ I'm a Computer Science undergrad who is passionate about FullStack Development a
 - ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react) React.js
 - ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) CSS
 - ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) HTML
+- ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat&logo=laravel) Laravel
+- ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) PHP
+- ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) Vue.js
+- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) Tailwind CSS
 
 ## 📬 Get in Touch
 
